@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Coroutine-339933?style=flat-square&logo=Coroutine&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/Flow-47A248?style=flat-square&logo=Flow&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Jepack Compose-4479A1?style=flat-square&logo=Compose&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Jepack Compose-4285F4?style=flat-square&logo=Compose&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/iOS-232F3E?style=flat-square&logo=iOS&logoColor=white"/></a> &nbsp </p>
