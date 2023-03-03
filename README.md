@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/Android-E34F26?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Kotlin-1572B6?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Swift-00599C?style=flat-square&logo=Swift&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/AOSP-F7DF1E?style=flat-square&logo=AOSP&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Coroutine-339933?style=flat-square&logo=Coroutine&logoColor=white"/></a> &nbsp
+<!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
+<img src="https://img.shields.io/badge/Flow-47A248?style=flat-square&logo=Flow&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Jepack Compose-4479A1?style=flat-square&logo=Compose&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/iOS-232F3E?style=flat-square&logo=iOS&logoColor=white"/></a> &nbsp </p>
