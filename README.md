@@ -29,15 +29,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/iOS-232F3E?style=flat-square&logo=iOS&logoColor=white"/></a> &nbsp </p>
 
 ## 공부를 하자!
-- AndroidSampleCode 
+- [AndroidSampleCode](https://github.com/jhanulis7/AndroidSampleCode)
   - Codelab 등 안드로이드 기본 필요한 트렌디 기술 예제들을 구현해본다.
-- JetpackComposeSamplect
+- [JetpackComposeSamplect](https://github.com/jhanulis7/JetpackComposeSamplect)
   - Compose 공부하며 여러 예제들을 구현해본다
-- iOS_SampleCode Public
-
-
- Kotlin  2
-
-Contribution settings 
-
+- [iOS_SampleCode Public](https://github.com/jhanulis7/iOS_SampleCode)
+  - Swift 로 샘플코드를 만들어본다.
 - [좋은 기술 글 모음 Wiki Page](https://github.com/jhanulis7/AndroidSampleCode/wiki)
+  -  Medium , blog 등 좋은 기술 공유 글들을 모아보고 스터디 한다.
