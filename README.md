@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Flow-47A248?style=flat-square&logo=Flow&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Jepack Compose-4285F4?style=flat-square&logo=Compose&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/iOS-232F3E?style=flat-square&logo=iOS&logoColor=white"/></a> &nbsp </p>
+
+## 공부를 하자!
+- [좋은 기술 글 모음 Wiki Page](https://github.com/jhanulis7/AndroidSampleCode/wiki)
