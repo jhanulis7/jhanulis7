@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 공부를 하자!
 - [AndroidSampleCode](https://github.com/jhanulis7/AndroidSampleCode)
   - Codelab 등 안드로이드 기본 필요한 트렌디 기술 예제들을 구현해본다.
-- [JetpackComposeSamplect](https://github.com/jhanulis7/JetpackComposeSamplect)
+- [JetpackComposeSample](https://github.com/jhanulis7/JetpackComposeSamplect)
   - Compose 공부하며 여러 예제들을 구현해본다
 - [iOS_SampleCode Public](https://github.com/jhanulis7/iOS_SampleCode)
   - Swift 로 샘플코드를 만들어본다.
