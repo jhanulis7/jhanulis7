@@ -39,3 +39,21 @@ Here are some ideas to get you started:
   - Swift 로 샘플코드를 만들어본다.
 - [좋은 기술 글 모음 Wiki Page](https://github.com/jhanulis7/AndroidSampleCode/wiki)
   -  Medium , blog 등 좋은 기술 공유 글들을 모아보고 스터디 한다.
+
+## Career
+### 포티투닷
+- Ai Assistant Android Application Engineer
+- IVI Android Application Engineer
+### 현대차
+- IVI Android Application Engineer
+- AI Android Application Engineer
+### 네이버 
+- Naver Maps Navigation Engine Developer
+- AWAY (NAVER Infotainment) PO
+- Android Application Engineer
+- AOSP Engineer
+### 팬택
+- Android Full-Stack Engineer
+- MPEG-2 TS Engineer
+### 하이닉스
+- Mobile Communication Engineer
