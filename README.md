@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/iOS-232F3E?style=flat-square&logo=iOS&logoColor=white"/></a> &nbsp </p>
 
 ## 공부를 하자!
+- [GeminiSample](https://github.com/jhanulis7/GeminiSample)
+  - Gemini Sample 앱을 만들어 본다 
 - [AndroidSampleApp](https://github.com/jhanulis7/AndroidSampleApp)
   - 샘플앱을 제공  
 - [AndroidSampleCode](https://github.com/jhanulis7/AndroidSampleCode)
